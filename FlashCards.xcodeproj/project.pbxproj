@@ -188,11 +188,11 @@
 			children = (
 				FF46BD4F247E133B00AC1E20 /* MainViewController.swift */,
 				FF46BD7B247E144C00AC1E20 /* AddCardsViewController.swift */,
+				FFD48A0624883ACA00A218C7 /* ChooseDirectionViewController.swift */,
 				FF46BD7D247E147400AC1E20 /* PracticeViewController.swift */,
 				FF4F79BA2482D43E00C8B01A /* EditMenuViewController.swift */,
 				FF4F79BC2482D77500C8B01A /* ViewAllViewController.swift */,
 				FF4F79BE2483031500C8B01A /* DeleteTableViewController.swift */,
-				FFD48A0624883ACA00A218C7 /* ChooseDirectionViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -628,6 +628,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 883MB467TW;
 				INFOPLIST_FILE = FlashCards/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -646,6 +647,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 883MB467TW;
 				INFOPLIST_FILE = FlashCards/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
